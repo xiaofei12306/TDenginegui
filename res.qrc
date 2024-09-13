@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/childTable.png</file>
+        <file>icon/closeDataBase.png</file>
+        <file>icon/closeTDengine.png</file>
+        <file>icon/dataBase.png</file>
+        <file>icon/openDataBase.png</file>
+        <file>icon/openTDengine.png</file>
+        <file>icon/superTable.png</file>
+        <file>icon/client.png</file>
+        <file>icon/query.png</file>
+        <file>icon/add.png</file>
+        <file>icon/left.png</file>
+        <file>icon/leftLeft.png</file>
+        <file>icon/refresh.png</file>
+        <file>icon/right.png</file>
+        <file>icon/rightRight.png</file>
+        <file>icon/subtract.png</file>
+        <file>icon/ht-TDenginelined.png</file>
+        <file>icon/TDEngineClient.png</file>
+        <file>icon/run.png</file>
+        <file>icon/sift.png</file>
+        <file>icon/dui.png</file>
+        <file>icon/down.png</file>
+        <file>icon/up.png</file>
+        <file>icon/subtractFilter.png</file>
+        <file>icon/addFilter.png</file>
+        <file>icon/queryTable.png</file>
+        <file>icon/help.png</file>
+        <file>icon/about.png</file>
+    </qresource>
+</RCC>
